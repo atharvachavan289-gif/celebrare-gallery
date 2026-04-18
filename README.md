@@ -2,9 +2,8 @@
 
 A responsive photo gallery web application built with React, Vite, and Tailwind CSS. This project was developed as a pre-screening assignment for the Frontend React Internship at Celebrare.
 
-## 🚀 Live Demo & Walkthrough
-* **Screen Recording:** [Insert your YouTube/Drive Link Here]
-
+## 🚀 Live Demo 
+👉 **[Visit the Live Application](https://celebrare-gallery-liard.vercel.app/)**
 ## ✨ Features
 
 * **Data Fetching:** Fetches 30 images from the public Picsum API on initial load using a custom `useFetchPhotos` hook. Includes loading spinners and error handling states.
